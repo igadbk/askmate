@@ -2,3 +2,4 @@ venv
 Flask
 psycopg2-binary
 flask-bootstrap
+dotenv
